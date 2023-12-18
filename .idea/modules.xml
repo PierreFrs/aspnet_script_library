@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/script_library.iml" filepath="$PROJECT_DIR$/.idea/script_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aspnet_script_library.iml" filepath="$PROJECT_DIR$/.idea/aspnet_script_library.iml" />
     </modules>
   </component>
 </project>
